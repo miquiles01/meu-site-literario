@@ -149,7 +149,7 @@ section {
 
 .book-grid {
     display: grid;
-    grid-template-columns: repeat(6, 1fr); 
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Ajusta a largura mínima das colunas */
     gap: 20px; 
     max-width: 1200px; 
     margin: auto;
@@ -185,7 +185,6 @@ section {
 .view-more a:hover {
     color: #4B232F; 
 }
-
 
 /* Contato */
 .contact-section {
@@ -237,4 +236,19 @@ section {
 
 .footer p {
     margin: 0;
+}
+
+@media (max-width: 768px) {
+
+    .navbar-items{
+        display: none;
+    }
+
+    .intro-section h2{
+        font-size: 26px;
+    }
+    .intro-section p{
+        font-size: 16px;
+        padding: 1rem;
+    }
 }
