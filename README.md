@@ -34,14 +34,4 @@ Este projeto está desenvolvido com:
 
 ---
 
-## 🌟 Destaques  
-
-### 🖼️ Tela Inicial  
-![Página Inicial](https://via.placeholder.com/600x400?text=Preview+da+Página+Inicial)  
-
-### 📚 Post  
-![Postagem Exemplo](https://via.placeholder.com/600x400?text=Exemplo+de+Postagem)  
-
----
-
 ![image](https://github.com/user-attachments/assets/44314f8a-671c-4ea3-81a5-a8d2ccca0db3)
